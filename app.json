@@ -32,7 +32,9 @@
             "value": "https://raw.githubusercontent.com/keithrandall/danny/main/etc/StoreFiles"
         }
     },
-    "repository": "https://github.com//keithrandall/danny",
+    "website": "https://github.com/keithrandall/danny",
+    "repository": "https://github.com/keithrandall/danny",
     "stack": "container"}
+
 
 }
